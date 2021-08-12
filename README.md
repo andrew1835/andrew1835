@@ -27,4 +27,4 @@ Hello! My name is Andrew Anthony and I am a software engineer based in Seattle, 
 <a href='https://github.com/andrew1835/functional-Facebook-clone'>GitHub Repository</a><br>
 Full-Stack Facebook clone with functional user login and a functional live feed for posting
 <br>
-<img src='./public/FacebookWalkthrough.gif'>
+<img src='./public/Facebook.gif'>
