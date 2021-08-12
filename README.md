@@ -30,7 +30,6 @@ Full-Stack Facebook clone with functional user login and a functional live feed 
 <img src='./public/Facebook.gif'>
 <br>
 <hr>
-<br>
 
 ### Portfolio Site<br>
 <a href='https://andrew1835.github.io/Portfolio/' target="_blank">Deployed Application</a><br>
@@ -40,4 +39,3 @@ Fully responsive personal portfolio site that I designed and coded completely fr
 <img src='./public/Portfolio.gif'>
 <br>
 <hr>
-<br>
