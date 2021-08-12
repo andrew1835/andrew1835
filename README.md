@@ -29,6 +29,7 @@ Full-Stack Facebook clone with functional user login and a functional live feed 
 <br>
 <img src='./public/Facebook.gif'>
 <br>
+<hr>
 <br>
 
 ### Portfolio Site<br>
@@ -37,3 +38,6 @@ Full-Stack Facebook clone with functional user login and a functional live feed 
 Fully responsive personal portfolio site that I designed and coded completely from scratch
 <br>
 <img src='./public/Portfolio.gif'>
+<br>
+<hr>
+<br>
