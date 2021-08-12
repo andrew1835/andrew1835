@@ -21,3 +21,10 @@ Hello! My name is Andrew Anthony and I am a software engineer based in Seattle, 
 <br>
             
 ## &#x1f4bb; Recent Projects
+
+<b>Functional Facebook Clone</b><br>
+<a href='https://functional-facebook-clone.vercel.app/'>Deployed Application</a><br>
+<a href='https://github.com/andrew1835/functional-Facebook-clone'>GitHub Repository</a><br>
+Full-Stack Facebook clone with functional user login and a functional live feed for posting
+<br>
+<img src='./public/FacebookWalkthrough.gif'>
