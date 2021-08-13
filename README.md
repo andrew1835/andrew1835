@@ -47,4 +47,14 @@ Full-stack administrative storefront for Litzia, an IT company in Bellingham, WA
 <br>
 <img src='./public/Litzia.gif'>
 <br>
+<hr>
+<br>
+
+
+## 🔧 Technologies & Tools
+<b>Languages:</b> JavaScript ES6+, CSS3, HTML5<br>
+<b>Front-End:</b> React.js, React Hooks, Next.js, Tailwind CSS, Bootstrap, Material UI, DOM<br>
+<b>Back-End:</b> Node.js, Express.js, MySQL, Sequelize, MongoDB, Firestore DB, RESTful APIs<br>
+<b>Tools:</b> jQuery, Local Storage, JSON, NPM, Git, GitHub, Heroku<br>
+<b>Other skills:</b> Agile Development, Communication, Creative Writing, Marketing, Teamwork
 
