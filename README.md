@@ -48,7 +48,6 @@ Full-stack administrative storefront for Litzia, an IT company in Bellingham, WA
 <img src='./public/Litzia.gif'>
 <br>
 <hr>
-<br>
 
 
 ## 🔧 Technologies & Tools
